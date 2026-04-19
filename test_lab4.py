@@ -46,7 +46,7 @@ class TestTextClasses(unittest.TestCase):
         self.assertEqual(len(processor.text.sentences), 2)
 
     def test_parse_text_without_punctuation(self):
-        # ВАЖЛИВИЙ edge case
+        
         processor = TextProcessor("Hello world")
         self.assertGreaterEqual(len(processor.text.sentences), 0)
 
