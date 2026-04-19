@@ -10,7 +10,6 @@
 
 
 
-Uploading redpandacompress_Записування з екрана 2026-04-19 185747.mp4…
 
 
-
+https://github.com/user-attachments/assets/2ec82737-fb95-4084-8231-e555c35bf9f4
