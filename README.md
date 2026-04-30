@@ -9,7 +9,7 @@
 Модифікація лабораторної роботи 3 наступним чином: для літер, слів, речень, розділових знаків та тексту створити окремі класи. Слово повинно складатися з масиву  літер, речення з масиву слів та розділових знаків, текст з масиву речень.
 
 
-http://localhost:63342/PythonProject10/docs/lab3.html?_ijt=qq5hi6hgoth5ldeoi0r893ei0n&_ij_reload=RELOAD_ON_SAVE
+
 
 
 https://github.com/user-attachments/assets/2ec82737-fb95-4084-8231-e555c35bf9f4
